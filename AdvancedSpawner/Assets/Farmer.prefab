@@ -117,7 +117,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1541147935949382547}
-  - component: {fileID: 918081903152669176}
+  - component: {fileID: 423856904947691064}
   m_Layer: 0
   m_Name: Farmer
   m_TagString: Untagged
@@ -143,7 +143,7 @@ Transform:
   - {fileID: 2038727091952716175}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &918081903152669176
+--- !u!114 &423856904947691064
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -152,9 +152,10 @@ MonoBehaviour:
   m_GameObject: {fileID: 4878978093345993887}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: db74c0aa7c7dd8a4f80dc2de21bb8910, type: 3}
+  m_Script: {fileID: 11500000, guid: 8f7c364b03b0f464f983177c4a644810, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  pauseTime: 3
 --- !u!1 &5517661798429250751
 GameObject:
   m_ObjectHideFlags: 0
